@@ -1,13 +1,6 @@
 # Social_Media_for_Developers
 This is the List of Social Media Resources for Developers by Siraj Raval on Youtube
 
-
-### Researchers
-
-Many of the most well-known AI researchers have a strong presence on the web. Below I've listed around twenty and included links to their website, Wikipedia page, Twitter profile, Google Scholar profile, and Quora profile. Quite a few have done an Ask-Me-Anything on Reddit or a Quora Session so I've included that is well when applicable.
-
-I could include dozens more in a list like this. See [Quora][5] for more names.
-
 ### Organizations
 
 There are a handful of well-known organizations that are dedicated to furthering AI research and development. Below are the ones with websites/blogs and Twitter accounts.
@@ -32,7 +25,6 @@ There are an overwhelming number of video courses and tutorials available online
 Below I include links to YouTube channels or users that have regular content that is AI or machine learning-related. I've ordered by subscriber/view count to give a sense of their popularity.
 
 * [sentdex][25] (225K subscribers, 21M views)
-* [Siraj Raval][26] (140K subscribers, 5M views)
 * [Two Minute Papers][27] (60K subscribers, 3.3M views)
 * [DeepLearning.TV][28] (42K subscribers, 1.7M views)
 * [Data School][29] (37K subscribers, 1.8M views)
