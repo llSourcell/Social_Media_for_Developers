@@ -1,19 +1,6 @@
 # Social_Media_for_Developers
 This is the List of Social Media Resources for Developers by Siraj Raval on Youtube
 
-[Source](https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524 "Permalink to My Curated List of AI and Machine Learning Resources from Around the Web")
-
-# My Curated List of AI and Machine Learning Resources from Around the Web
-
-When [I was writing books][1] on networking and programming topics in the early 2000s, the web was a good, but an incomplete resource. Blogging had started to take off, but YouTube wasn't around yet, nor was Quora, Twitter, or podcasts. Over ten years later as [I've been diving into AI and machine learning][2], it is a completely different ballgame. There are so many resources — it's difficult to know where to start (and stop)!
-
-To save you some of the effort I went through in researching all the different nooks and crannies of the web to find the best content; I've organized them into a big collection here. I'm only include links to **_free_** content. There is enough free content to keep you busy for a while. It's amazing just how much information is available on machine learning, deep learning, and artificial intelligence on the web. This article should give you a sense of the scope.
-
-I've created sections below that contain: well-known researchers, AI organizations, video courses, bloggers, Medium writers, books, YouTube channels, Quora topics, subreddits, Github repos, podcasts, newsletters, conferences, research links, tutorials, and cheat sheets. **It's a lot**, but given the popularity of my [Tutorials][3] and [Cheat Sheets][4] articles, there seems to be a need for this kind of curated list.
-
-> Note: I wrote this in early July 2017. In some sections, I've included subscriber/follower/view counts, which will go out-of-date as soon as the article is published, but it should still be useful to give you a sense of interest level.
-
-Let me know if there anything good I'm missing! I'm always looking to add to the list.
 
 ### Researchers
 
